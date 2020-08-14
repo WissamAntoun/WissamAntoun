@@ -40,7 +40,7 @@
 <br />
 
 
-<img align="left" alt="Wissam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=WissamAntoun&show_icons=true&hide_border=true&hide=prs,contribs&count_private=true" />
+<img align="left" alt="Wissam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=WissamAntoun&show_icons=true&hide_border=true&hide=prs&count_private=true" />
 
 
 
