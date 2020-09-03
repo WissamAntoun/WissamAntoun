@@ -2,7 +2,7 @@
 
 ## I'm a Researcher, Developer, and Gamer!
 
-- I’m currently working on finishing my Master's thesis on Arabic Chatbots 💬!
+- I’m currently working on finishing my Master's thesis on Transformers for Arabic NLP 💬!
 - I'm also actively researching other Arabic NLP tasks (Language modeling, Text Classification, Segmentation...)
 - I'm interested in DL, DIY projects, and tech hardware 💻
 
@@ -48,6 +48,7 @@
 
 <img align="left" alt="Wissam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=WissamAntoun&show_icons=true&hide_border=true&hide=prs&count_private=true" />
 
+**Check out and don't forget to star the [AraBERT](https://github.com/aub-mind/arabert) repository**
 
 
 
