@@ -6,8 +6,13 @@
 - I'm also actively researching other Arabic NLP tasks (Language modeling, Text Classification, Segmentation...)
 - I'm interested in DL, DIY projects, and tech hardware 💻
 
+## Resume/CV:
 
-### Connect with me:
+- Extended version: [PDF](https://raw.githubusercontent.com/WissamAntoun/Resume-CV/master/Awesome_CV.pdf)
+- 1-page version: [PDF](https://raw.githubusercontent.com/WissamAntoun/Awesome-CV---1-page/master/Awesome_CV___1_page.pdf)
+
+
+## Connect with me:
 
 [<img align="left" alt="Wissam Antoun | Email" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Gmail_Icon.svg/512px-Gmail_Icon.svg.png" />][email]
 [<img align="left" alt="Wissam Antoun | Twitter" width="22px" src="https://us-central1-iconscout-1539.cloudfunctions.net/iconscout-gcp-functions-production-download?name=twitter&download=1&url=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-24%2F83443.png&width=24&height=24" />][twitter]
@@ -16,7 +21,7 @@
 [<img align="left" alt="Wissam Antoun | Research Gate" width="22px" src="https://icon-icons.com/downloadimage.php?id=130843&root=2108/PNG/512/&file=researchgate_icon_130843.png" />][researchgate]
 <br />
 
-### Languages and Tools:
+## Languages and Tools:
 
 <img align="left" alt="PyTorch" width="26px" src="https://pytorch.org/assets/images/pytorch-logo.png" />
 <img align="left" alt="Tensorflow" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png" />
@@ -39,6 +44,7 @@
 <br />
 <br />
 
+##
 
 <img align="left" alt="Wissam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=WissamAntoun&show_icons=true&hide_border=true&hide=prs&count_private=true" />
 
