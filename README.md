@@ -14,7 +14,7 @@
 
 ## Connect with me:
 
-[<img align="left" alt="Wissam Antoun | Email" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Gmail_Icon.svg/512px-Gmail_Icon.svg.png" />][email]
+[<img align="left" alt="Wissam Antoun | Email" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />][email]
 [<img align="left" alt="Wissam Antoun | Twitter" width="22px" src="https://us-central1-iconscout-1539.cloudfunctions.net/iconscout-gcp-functions-production-download?name=twitter&download=1&url=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-24%2F83443.png&width=24&height=24" />][twitter]
 [<img align="left" alt="Wissam Antoun | LinkedIn" width="22px" src="https://us-central1-iconscout-1539.cloudfunctions.net/iconscout-gcp-functions-production-download?name=linkedin&download=1&url=https%3A%2F%2Fcdn.iconscout.com%2Ficon%2Ffree%2Fpng-24%2F461814.png&width=24&height=24" />][linkedin]
 [<img align="left" alt="Wissam Antoun | Scholar" width="22px" src="https://icon-icons.com/downloadimage.php?id=130918&root=2108/PNG/32/&file=google_scholar_icon_130918.png" />][scholar]
