@@ -2,8 +2,8 @@
 
 ## I'm a Researcher, Developer, and Gamer!
 
-- I’m actively working on Transformers for Arabic NLP 💬!
-- I'm also actively researching other Arabic NLP tasks (Language modeling, Text Classification, Segmentation...)
+- I’m actively working on Transformers for Language Modeling and NLP 💬!
+- I'm also actively researching other NLP tasks (Language modeling, Text Classification, Segmentation...)
 - I'm interested in DL, DIY projects, and tech hardware 💻
 
 ## Resume/CV:
