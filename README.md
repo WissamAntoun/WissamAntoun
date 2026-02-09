@@ -7,7 +7,7 @@
 - I'm interested in MlOPS, DIY projects, and tech hardware 💻
 
 ## Resume/CV:
-- Website: [wissamantoun.com](https://wissamantoun.com)
+- Website: [wiss.dev](https://wiss.dev)
 - Extended version: [PDF](https://raw.githubusercontent.com/WissamAntoun/Resume-CV/master/Awesome_CV.pdf)
 - 1-page version: [PDF](https://https://raw.githubusercontent.com/WissamAntoun/Awesome-CV---1-page/master/Awesome_CV___1_page.pdf)
 
@@ -20,18 +20,7 @@
 [<img align="left" alt="Wissam Antoun | Scholar" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" />][scholar]
 <br />
 
-## Languages and Tools:
 
-<img align="left" alt="PyTorch" width="26px" src="https://pytorch.org/assets/images/pytorch-logo.png" />
-<img align="left" alt="Tensorflow" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" />
-<img align="left" alt="Jupyter Notebook" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png" />
-<img align="left" alt="Google Cloud Platform" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Google-cloud-platform.svg/768px-Google-cloud-platform.svg.png?20200213184934" />
-<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" />
-<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png" />
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" />
-<img align="left" alt="Matlab" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/matlab/matlab.png" />
 
 
 <br />
